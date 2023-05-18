@@ -1,0 +1,33 @@
+body {
+    color: black;
+}
+
+.img-clima {
+    width: 100%;
+    margin: 10px;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+.container-clima {
+    margin: 20px;
+}
+
+.card {
+    background-color: rgb(74, 109, 206);
+    border-radius: 30px;
+    max-width: 1000px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+@media (max-width: 772px) {
+    .img-clima{
+        width: 90%;
+    }
+}

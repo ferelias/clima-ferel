@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/clima-ferel/build/static/css/main.5034f115.css",
+    "main.js": "/clima-ferel/build/static/js/main.3893b230.js",
+    "static/media/clima1.jpg": "/clima-ferel/build/static/media/clima1.ffd18d9d47430ea03d96.jpg",
+    "index.html": "/clima-ferel/build/index.html",
+    "main.5034f115.css.map": "/clima-ferel/build/static/css/main.5034f115.css.map",
+    "main.3893b230.js.map": "/clima-ferel/build/static/js/main.3893b230.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5034f115.css",
+    "static/js/main.3893b230.js"
+  ]
+}

@@ -1,0 +1,43 @@
+.contenedor-nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(74, 109, 206);
+    margin: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+.img-logo {
+    padding: 10px;
+}
+
+
+.menu-right {
+    margin-top: 8px;
+}
+a {
+    margin-top: 10px;
+}
+
+.enlace {
+    padding: 20px;
+    margin-right: 5px;
+}
+
+.enlace:hover {
+    background-color: rgb(46, 64, 112);
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+svg {
+    width: 30px;
+}
